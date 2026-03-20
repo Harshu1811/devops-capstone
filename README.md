@@ -8,4 +8,4 @@ This project demonstrates a complete DevOps pipeline including:
 
 ## Build Status
 
-![Build Status](https://github.com/Harshu1811/devops-capstone/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Harshu1811/devops-capstone/actions/workflows/main.yaml/badge.svg)
