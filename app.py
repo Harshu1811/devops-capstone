@@ -1,4 +1,3 @@
-from flask import Flask, jsonify, request
 from service import create_app
 
 app = create_app()
